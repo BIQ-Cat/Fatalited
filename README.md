@@ -10,5 +10,3 @@ Have a nice time playing it.
 ## Versions
 
 > 0.0.1 - Gonna start working
-
-> 0.0.2 - Added animation to the character
