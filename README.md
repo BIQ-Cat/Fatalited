@@ -4,7 +4,7 @@ Fatalited is a fan project for gameboy DMG-01. It will be an open world project,
 
 ## How to play?
 
-Install GameBoy emulator like BGB or mGBA and open Fatalited.rom with it.  
+Install GameBoy emulator like BGB or mGBA and open .rom with it.  
 Have a nice time playing it.
 
 ## Versions
